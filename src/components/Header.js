@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <nav>
         <Link to='/urls'>URL History</Link>
-        <Link to='/create'>New URL</Link>
+        <br /><Link to='/create'>New URL</Link>
       </nav>
     </header>
   );

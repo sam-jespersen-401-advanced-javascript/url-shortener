@@ -28,3 +28,4 @@ UserForm.propTypes = {
   handleSubmit: PropTypes.func.isRequired
 };
 
+export default UserForm;
